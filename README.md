@@ -1,9 +1,8 @@
 # Nobel Awards: A Data Analysis with Python
 This project presents a comprehensive data analysis of Nobel Prizes using the Python programming language.
 
-Dataset:
-A comprehensive dataset of prizes and laureates was gathered from the official Nobel Prize website.
-The dataset includes information on prize categories, years, laureates, motivations behind the awards, and other relevant details.
+_Dataset: A comprehensive dataset of prizes and laureates was gathered from the official Nobel Prize website.
+The dataset includes information on prize categories, years, laureates, motivations behind the awards, and other relevant details_
 
 ### *Analysis Techniques:*
 
