@@ -1,4 +1,4 @@
-# Nobel_Award
+# Nobel Awards: A Data Analysis with Python
 This project presents a comprehensive data analysis of Nobel Prizes using the Python programming language.
 
 Dataset:
